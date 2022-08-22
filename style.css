@@ -39,6 +39,7 @@ body {
   overflow: hidden;
 }
 .circle {
+  pointer-events: none;
   border: 1px solid gold;
   border-radius: 50%;
   position: absolute;

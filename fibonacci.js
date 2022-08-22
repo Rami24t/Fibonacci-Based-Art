@@ -85,5 +85,6 @@ function main() {
             }
         }
     }
+    music = new Audio('https://assets.mixkit.co/music/download/mixkit-just-chill-16.mp3');
 }
 main();
