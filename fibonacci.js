@@ -1,3 +1,9 @@
+// Javascript file for my Golden Ratio 
+// illustration/animation webart wepage.
+// by Rami Al-Saadi 
+// 2022
+
+
 // n = 79;
 const MyMath = {
     fibonacci: function (n) {
@@ -88,3 +94,6 @@ function main() {
     music = new Audio('https://assets.mixkit.co/music/download/mixkit-just-chill-16.mp3');
 }
 main();
+
+// by Rami Al-Saadi 
+// 2022
