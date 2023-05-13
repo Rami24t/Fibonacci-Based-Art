@@ -7,3 +7,6 @@ Update:
 ## Fully responsive to all screen sizes.
 
 ## Check it out: Live version: https://rami24t.github.io/Fibonacci-Based-Art/
+
+https://rami24t.github.io/Fibonacci-Based-Art/ Rami Al-Saadi - 2022 - all rights reserverd 
+made in August 2022
